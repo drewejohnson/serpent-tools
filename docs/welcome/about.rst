@@ -9,8 +9,8 @@ serpent-tools
     .. image:: https://travis-ci.org/CORE-GATECH-GROUP/serpent-tools.svg?branch=master
         :target: https://travis-ci.org/CORE-GATECH-GROUP/serpent-tools
     
-     .. image:: https://codecov.io/gh/drewejohnson/serpent-tools/branch/develop/graph/badge.svg
-      :target: https://codecov.io/gh/drewejohnson/serpent-tools
+    .. image:: https://codecov.io/gh/drewejohnson/serpent-tools/branch/develop/graph/badge.svg
+        :target: https://codecov.io/gh/drewejohnson/serpent-tools
 
 A suite of parsers designed to make interacting with
 ``SERPENT`` [1]_ output files simple and flawless.
